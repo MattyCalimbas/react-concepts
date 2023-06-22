@@ -3,6 +3,8 @@ import componentsImage from './assets/images/components.png';
 import stateImage from './assets/images/state.png';
 import eventsImage from './assets/images/events.png';
 
+
+// concept array rendered in component
 const concepts = [
   {
     title: 'Components',
