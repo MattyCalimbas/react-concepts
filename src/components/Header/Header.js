@@ -1,6 +1,6 @@
 import keyConceptsImage from '../../assets/images/key-concepts.png';
 
-function Header() {
+const Header = () => {
     return (
         <header>
             <img src={keyConceptsImage} alt="Medal badge with a star" />

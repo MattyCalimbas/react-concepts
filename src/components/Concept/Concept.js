@@ -1,4 +1,4 @@
-function Concept(props) {
+const Concept = (props) => {
     return(
     <li className="concept">
         <img src={props.image} alt={props.title} />
